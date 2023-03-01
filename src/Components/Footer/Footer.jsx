@@ -13,7 +13,7 @@ export const Footer = () => {
           rel="noreferrer"
           target="_blank"
         >
-          <h3 className="footer">Made with ❤ By yogeshvarisurywanshi</h3>
+          <h3 className="footer">Made with ❤ By YogeshvariSurywanshi</h3>
         </a>
       </div>
     </>
